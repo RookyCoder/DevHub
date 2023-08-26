@@ -1,2 +1,0 @@
-# DevHub
-my IT page
